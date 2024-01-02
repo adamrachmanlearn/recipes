@@ -1,2 +1,2 @@
 # odin-recipes
-This project is for practicing my current understanding of HTML.
+This project is for practicing my current understanding of HTML, CSS, and JavaScript.
