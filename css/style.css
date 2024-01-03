@@ -2,6 +2,6 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.home.heading {
+h1 {
     background-color: beige;
 }
