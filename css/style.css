@@ -1,11 +1,9 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h1 {
-    background-color: wheat;
-}
-
-h3 {
-    background-color: beige;
+    text-align: center;
+    padding: 8px;
+    background-color: #FFAD84;
 }
