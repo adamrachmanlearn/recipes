@@ -7,3 +7,8 @@ h1 {
     padding: 8px;
     background-color: #FFAD84;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
