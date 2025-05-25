@@ -1,2 +1,2 @@
-# odin-recipes
-This project is for practicing my current understanding of HTML, CSS, and JavaScript.
+# Recipes
+Simple recipes page for practicing html and css
